@@ -1,0 +1,45 @@
+html{scroll-behavior:auto !important; }/*SMOOTH*/
+body{font-family:helvetica;background-color: black;}/*ESTO ES PARA EL NAV*/
+
+/*Navar*/
+.navbar{background-color: none;
+
+position: fixed;
+width:100vw;
+z-index: 4; }
+
+.navbar-brand{font-family: "oswald";
+font-size: 40px;
+font-weight: 700;}
+
+
+
+
+/*Quienes_somos*/
+
+#Quienes_somos h1{font-family: "oswald";
+    font-size: 52px;
+  }
+  .card-text{background-color: black;color: white;}
+  #Quienes_somos {background-color: black;
+  }
+.card{background-color: #0996f5;}
+i{margin-left: 50%;color: white;}
+
+    /*Destacados*/
+    #Destacados {background-color:black ;
+font-family: "oswald";}
+.card-body{background-color: black;color: white;}
+#Destacados h1 {font-family: "oswald";
+  font-size: 52px;}
+
+/**contactos*/
+#contacto h1{font-family: "oswald";
+  font-size: 52px;}
+  #enviarCorreo{background-color:#0996f5;}
+  /*foot*/
+#Footer {background-color:#0996f5;}
+#Footer h1{font-family: "oswald";}
+
+#Footer a{color: white;text-decoration: none;}
+
