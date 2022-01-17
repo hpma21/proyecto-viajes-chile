@@ -42,3 +42,11 @@ JavaScript), haciendo uso de la grilla y de clases utilitarias.
 ● Se Aplico correctamente dos o más componentes de Bootstrap JS (carousel,
 tooltips, entre otros).
 ● El código esta ordenado y documentado.
+
+5. Se Gestiono el código fuente utilizando Github.
+
+● Se Inicializo GIT para versionar el proyecto localmente, realizando 5 o más
+commits.
+● Se Implemento la creación de repositorio remoto en Github para el
+versionamiento del proyecto.
+● Se creo  la página en Github Pages.
