@@ -1,3 +1,5 @@
+/*se Agregan componentes que utilicen JavaScript según indicaciones de desafio*/
+
 $(function () {
   $("#enviarCorreo").click(function() { 
       alert("¡El correo ha sido enviado exitosamene!")
