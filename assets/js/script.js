@@ -29,7 +29,7 @@ $(document).ready(function(){
 
 $("a").click(function (){
 var gato= this.hash
-/*alert(gato)  ejemplo de alert navx y scroll*/
+
 
 $("html, body").animate(
     {
