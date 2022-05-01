@@ -1,5 +1,5 @@
 # proyecto-viajes-chile
-mi primer  proyeccto con git
+mi primer  proyecto con git
 
 Proyecto Viaje Chile
 
